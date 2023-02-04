@@ -1,0 +1,22 @@
+x=10;
+y=20;
+if(x<20){
+    y=y+10;
+}else{
+    y=y+20;
+}
+while(x==3){
+    if(y==20){
+        cout<< y;
+    }
+cin>>x;
+cout<<20;
+}
+for(i=10;i<100;i=i+1){
+    if(i==5){
+        cout<<5;
+    }else{
+        cin>> j;
+        cout<< i;
+    }
+}
